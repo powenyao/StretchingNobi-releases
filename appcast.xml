@@ -2,6 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>StretchingNobi Updates</title>
-        <!-- Releases will appear here -->
+        <item>
+            <title>Version 0.4.38</title>
+            <pubDate>Sun, 01 Mar 2026 08:23:15 GMT</pubDate>
+            <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/powenyao/StretchingNobi-releases/releases/download/v0.4.38/StretchingNobi_v0.4.38_Setup.exe"
+                       sparkle:version="0.4.38"
+                       sparkle:shortVersionString="0.4.38"
+                       length="13190730"
+                       type="application/octet-stream"
+                       sparkle:dsaSignature="MDwCHFxU0MekPnZFK5vYKbsjRaq0ZemlqI9KS3ZTn2ACHClsDCLfNhDywmoBTqoSlWQSwiPeNsfwPSwLXEc=" />
+        </item>
     </channel>
 </rss>
