@@ -3,15 +3,15 @@
     <channel>
         <title>StretchingNobi Updates</title>
         <item>
-            <title>Version 0.4.57</title>
-            <pubDate>Fri, 06 Mar 2026 06:17:30 GMT</pubDate>
+            <title>Version 0.4.64</title>
+            <pubDate>Tue, 10 Mar 2026 03:02:45 GMT</pubDate>
             <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/powenyao/StretchingNobi-releases/releases/download/v0.4.57/StretchingNobi_v0.4.57_Setup.exe"
-                       sparkle:version="0.4.57+85"
-                       sparkle:shortVersionString="0.4.57"
-                       length="26745521"
+            <enclosure url="https://github.com/powenyao/StretchingNobi-releases/releases/download/v0.4.64/StretchingNobi_v0.4.64_Setup.exe"
+                       sparkle:version="0.4.64+92"
+                       sparkle:shortVersionString="0.4.64"
+                       length="26786259"
                        type="application/octet-stream"
-                       sparkle:dsaSignature="MD0CHQCVzMNklSWMU2H0hPLxG1x+G3BhrVNzU1JJKdG4AhxYnMB7CNQhBlXY+sWCEwoKP8EggJUHnEnIKvYC" />
+                       sparkle:dsaSignature="MDwCHHKmJza4tMCTBpZyip3mKLDkB8PN9DdQLXrJyyoCHFJi0TUeN8jUxSDSzdHNKe9N6Kr4QIil8gs7M0I=" />
         </item>
     </channel>
 </rss>
